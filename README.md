@@ -1,6 +1,6 @@
-# 🌱 Nodo IoT de Monitoreo Ambiental para Biohuerto
+# 🌱 Nodo IoT de Monitoreo Ambiental
 
-Estación meteorológica autónoma y de código abierto diseñada para el monitoreo de microclima y calidad del aire (AQI). Este sistema integra procesamiento de señales en el borde (_Edge Computing_) y transmisión GPRS para telemetría en tiempo real.
+Estación meteorológica autónoma (energéticamente) diseñada para el monitoreo de microclima y calidad del aire (AQI). Este sistema integra procesamiento de señales en el borde (_Edge Computing_) y transmisión GPRS para telemetría en tiempo real.
 
 ## 🛠️ Arquitectura de Hardware
 
@@ -70,6 +70,12 @@ Este cálculo permite transformar microgramos por metro cúbico ($\mu g/m^3$) en
 - **51 - 100 (Amarillo):** Moderada.
 - **101 - 150 (Naranja):** Dañina para grupos sensibles.
 - **151 - 500 (Rojo/Morado/Marrón):** Insalubre a Peligrosa. Dañino tanto para humanos como para los estomas de las plantas.
+
+
+## 📊 Visualización en ThingSpeak
+
+Firmware aplicado en prototipo actualmente. Los datos se visualizan en tiempo real en ThingSpeak (temperatura, humedad, PM2.5, PM10, CO2, TVOC, CH2O y AQI):
+https://thingspeak.mathworks.com/channels/3290961
 
 ---
 
