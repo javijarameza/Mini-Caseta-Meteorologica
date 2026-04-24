@@ -77,8 +77,4 @@ Este cálculo permite transformar microgramos por metro cúbico ($\mu g/m^3$) en
 Firmware aplicado en prototipo actualmente. Los datos se visualizan en tiempo real en ThingSpeak (temperatura, humedad, PM2.5, PM10, CO2, TVOC, CH2O y AQI):
 https://thingspeak.mathworks.com/channels/3290961
 
----
 
-## ⚖️ Licencia
-
-Este proyecto está bajo la Licencia MIT. Siéntete libre de usarlo, modificarlo y compartirlo.
