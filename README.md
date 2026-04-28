@@ -72,9 +72,9 @@ Este cálculo permite transformar microgramos por metro cúbico ($\mu g/m^3$) en
 - **151 - 500 (Rojo/Morado/Marrón):** Insalubre a Peligrosa. Dañino tanto para humanos como para los estomas de las plantas.
 
 
-## 📊 Visualización en ThingSpeak
+## 📊 Visualización
 
-Firmware aplicado en prototipo actualmente. Los datos se visualizan en tiempo real en ThingSpeak (temperatura, humedad, PM2.5, PM10, CO2, TVOC, CH2O y AQI):
-https://thingspeak.mathworks.com/channels/3290961
+Firmware aplicado en prototipo actualmente. Los datos se visualizan en tiempo real (temperatura, humedad, PM2.5, PM10, CO2, TVOC, CH2O y AQI):
+- https://thingspeak.mathworks.com/channels/3290961
 
-
+- https://nodered.jj-iot.it.com/ui/#!/0?socketid=EkPaoZszoDITULCIAADJ
